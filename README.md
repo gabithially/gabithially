@@ -10,7 +10,7 @@ Olá! Me chamo Gabriela, tenho 22 anos, sou pernambucana, formada em Letras Port
 - SQL
 - Git
 
-(![Alt text](image.png))
+![](![Alt text](image.png))
 
 #Exercício Pedra, papel ou tesoura
 
