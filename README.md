@@ -10,8 +10,8 @@ Olá! Me chamo Gabriela, tenho 22 anos, sou pernambucana, formada em Letras Port
 - SQL
 - Git
 
- ![] (![Alt text](![image](https://github.com/gabithially/gabithially/assets/138257550/2705f37c-adc3-452e-a001-3ff9208b5e8d)
-))
+<img src="/Documentos/Lightshot/![CONDICIONAIS01 JPEG](https://github.com/gabithially/gabithially/assets/138257550/72316c36-7724-4b61-abbf-3116c9acb7ae)
+">
 
 ## Exercício Pedra, papel ou tesoura
 
