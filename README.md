@@ -4,7 +4,6 @@ Olá! Me chamo Gabriela, tenho 22 anos, sou pernambucana, formada em Letras Port
 
 ### Conhecimentos:
 
-- Desenvolvedor de Software Back-end
 - Javascript
 - Node.js
 - SQL
